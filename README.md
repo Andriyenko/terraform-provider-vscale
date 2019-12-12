@@ -11,7 +11,7 @@ Requirements
 ------------
 
 -	[Terraform](https://www.terraform.io/downloads.html) 0.12.x
--	[Go](https://developer.fedoraproject.org/tech/languages/go/go-installation.html) 
+-	[Go](https://developer.fedoraproject.org/tech/languages/go/go-installation.html) Install Fedora
 
 Building The Provider
 ---------------------
