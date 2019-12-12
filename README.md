@@ -15,7 +15,7 @@ Requirements
 
 Building The Provider
 ---------------------
-
+```
 sudo mkdir $GOPATH
 export GOPATH=$GOPATH
 go env GOPATH
@@ -25,3 +25,4 @@ go get
 go build
 mkdir -p ~/.terraform.d/plugins/ 
 mv terraform-provider-vscale ~/.terraform.d/plugins/
+```
